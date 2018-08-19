@@ -183,7 +183,7 @@ body, input, textarea {
 }
 
 a {
-  color: #454545;
+  color: black;
   text-decoration: none;
 }
 
@@ -192,12 +192,13 @@ a:hover, a:active {
 }
 h1, h2, h3, h4, h5, h6 {
 	font-weight: 400;
-	color: 	#6f6f6f;
+	color: 	black;
 	line-height:1.1em;
 	font-family:'Open Sans', Arial, sans-serif;
 }
 h1 {
 	font-size: 36px;
+    color: black;
 	margin-bottom:20px;
 }
 h2 {

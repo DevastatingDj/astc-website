@@ -73,14 +73,15 @@ i.icon-bgdark.active {
 }
 
 .main-head{
-	font-family: 'Roboto Slab', serif;
+    color: black;
 	padding: 0;
 	margin: 0;
+	font-family: 'Roboto Slab', serif;
 }
 .sub-head{
 	padding: 0;
 	margin: 0;
-	color: white;
+	color: black;
 	font-family: 'Roboto Slab', serif;
 
 }
